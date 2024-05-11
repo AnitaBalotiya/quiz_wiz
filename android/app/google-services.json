@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792875999761",
+    "project_id": "quizwiz-be3e1",
+    "storage_bucket": "quizwiz-be3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792875999761:android:6173fee897fc8783f687b0",
+        "android_client_info": {
+          "package_name": "com.braingame.quizwiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagOjH6QGmPxoCcKzewJ92FXANRt0P1G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792875999761:android:df4c5130febab8a0f687b0",
+        "android_client_info": {
+          "package_name": "com.quickscan.barcodescan.qrreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagOjH6QGmPxoCcKzewJ92FXANRt0P1G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
