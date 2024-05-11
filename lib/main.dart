@@ -21,6 +21,7 @@ Future<void> main() async {
   //initialize firebase & then ads in config
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
+  // Activate app check
   await FirebaseAppCheck.instance
       .activate(androidProvider: AndroidProvider.debug);
 
